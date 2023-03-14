@@ -57,7 +57,7 @@ class Profile extends StatelessWidget {
               ),
               SizedBox(height: 8),
               Text(
-                'Kelas : TPM IF-E',
+                'Kelas : TPM IF-A',
                 style: TextStyle(fontSize: 16),
               ),
               SizedBox(height: 8),
